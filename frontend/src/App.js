@@ -2,11 +2,11 @@ import React from "react";
 
 import './global.css'
 
-import Logon from './pages/Logon'
+import Rotas from "./routes";
 
 function App() {
   return (
-    <Logon/>
+    <Rotas/>
   );
 }
 
